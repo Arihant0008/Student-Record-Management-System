@@ -38,10 +38,10 @@ CREATE DATABASE rec;
 USE rec;
 
 CREATE TABLE student (
-    rollNo INT PRIMARY KEY,
-    name VARCHAR(100),
-    fname VARCHAR(100),
-    sub VARCHAR(100),
+    rollNo INT,
+    name VARCHAR(15),
+    fname VARCHAR(15),
+    sub VARCHAR(15),
     grade VARCHAR(10)
 );
 ```
