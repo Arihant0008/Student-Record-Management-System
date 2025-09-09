@@ -1,6 +1,6 @@
-# 📘 Student Record Management System
+# 📘 Database-Driven Student Record Management System 
 
-This is a **Student Record Management System** developed using **Python**, **Tkinter** for the GUI, and **MySQL** for the database backend. It provides a simple interface for managing student data including adding, updating, searching, displaying, and deleting records.
+This is a **Database-Driven Student Record Management System** developed using **Python**, **Tkinter** for the GUI, and **MySQL** for the database backend. It provides a simple interface for managing student data including adding, updating, searching, displaying, and deleting records.
 
 ---
 
